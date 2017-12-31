@@ -7,7 +7,7 @@
 ```sh
 $ cd hexo/themes/next
 $ ls
-bower.json  _config.yml  docs  gulpfile.coffee  languages  layout  LICENSE.md  package.json  README.cn.md  README.md  scripts  source  test
+bower.json  _config.yml  docs  gulpfile.coffee  languages  layout  LICENSE.md  package.json  README.md  scripts  source  test
 ```
 
 **2.** Install module to `source/lib` directory:
