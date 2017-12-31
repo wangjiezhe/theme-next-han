@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://hanzi.pro">Han</a> support for <a href="https://github.com/theme-next">NexT</a> theme</h1>
+<h1 align="center"><a href="https://hanzi.pro">Han</a> for <a href="https://github.com/theme-next">NexT</a></h1>
 
 <h2 align="center">Installation</h2>
 
