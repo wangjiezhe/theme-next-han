@@ -19,7 +19,6 @@ $ git clone https://github.com/theme-next/theme-next-han source/lib/Han
 **3.** Enable module in **NexT** `_config.yml` file:
 
 ```yml
-# Han Support docs: https://hanzi.pro/
 han: true
 ```
 
